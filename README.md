@@ -17,3 +17,7 @@
   - [[LeetCode] 387. First Unique Character in String](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-387-first-unique-character-in-string.md)
   - [[LeetCode] 383. Ransom Note](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-383-ransom-note.md)
   - [[LeetCode] 242. Valid Anagram](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-242-valid-anagram.md)
+  - [[LeetCode] 141. Linked List Cycle](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-141-linked-list-cycle.md)
+  - [[LeetCode] 21. Merge Two Sorted Lists](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-21-merge-two-sorted-lists.md)
+  - [[LeetCode] 203. Remove Linked List Elements](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-203-remove-linked-list-elements.md)
+  - [[LeetCode] 206. Reverse Linked List](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-206-reverse-linked-list.md)
