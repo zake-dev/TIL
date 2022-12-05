@@ -21,3 +21,5 @@
   - [[LeetCode] 21. Merge Two Sorted Lists](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-21-merge-two-sorted-lists.md)
   - [[LeetCode] 203. Remove Linked List Elements](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-203-remove-linked-list-elements.md)
   - [[LeetCode] 206. Reverse Linked List](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-206-reverse-linked-list.md)
+  - [[LeetCode] 83. Remove Duplicates from Sorted List](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-83-remove-duplicates-from-sorted-list.md)
+  - [[LeetCode] 20. Valid Parentheses](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-20-valid-parentheses.md)
