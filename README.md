@@ -5,6 +5,7 @@
 ## Algorithms
 
 - Data Structures
+
   - [[LeetCode] 217. Contains Duplicate](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-217-contains-duplicate.md)
   - [[LeetCode] 53. Maximum Subarray](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-53-maximum-subarray.md)
   - [[LeetCode] 1. Two Sum](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-1-two-sum.md)
@@ -29,3 +30,9 @@
   - [[LeetCode] 145. Binary Tree Postorder Traversal](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-145-binary-tree-postorder-traversal.md)
   - [[LeetCode] 102. Binary Tree Level Order Traversal](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-102-binary-tree-level-order-traversal.md)
   - [[LeetCode] 104. Maximum Depth of Binary Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-104-maximum-depth-of-binary-tree.md)
+  - [[LeetCode] 101. Symmetric Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-101-symmetric-tree.md)
+  - [[LeetCode] 226. Invert Binary Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-226-invert-binary-tree.md)
+  - [[LeetCode] 112. Path Sum](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-112-path-sum.md)
+
+- Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
+  - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
