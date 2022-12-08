@@ -36,3 +36,8 @@
 
 - Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
+
+## JavaScript
+
+- [How to Make Lazy Evaluated Function with Generator Syntax](https://github.com/zake-dev/TIL/blob/main/JavaScript/how-to-make-lazy-evaluated-function-with-generator-syntax.md)
+- [Implement the Sieve of Eratosthenes with Generator](https://github.com/zake-dev/TIL/blob/main/JavaScript/implement-the-sieve-of-eratosthenes-with-generator.md)
