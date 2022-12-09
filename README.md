@@ -33,6 +33,11 @@
   - [[LeetCode] 101. Symmetric Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-101-symmetric-tree.md)
   - [[LeetCode] 226. Invert Binary Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-226-invert-binary-tree.md)
   - [[LeetCode] 112. Path Sum](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-112-path-sum.md)
+  - [[LeetCode] 700. Search in a Binary Search Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-700-search-in-a-binary-search-tree.md)
+  - [[LeetCode] 701. Insert into a Binary Search tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-701-insert-into-a-binary-search-tree.md)
+  - [[LeetCode] 98. Validate Binary Search Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-98-validate-binary-search-tree.md)
+  - [[LeetCode] 653. Two Sum IV - Input is a BST](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-653-two-sum-iv-input-is-a-bst.md)
+  - [[LeetCode] 235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
