@@ -43,7 +43,10 @@
 
   - [[LeetCode] 136. Single Number](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-136-single-number.md)
   - [[LeetCode] 169. Majority Element](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-169-majority-element.md)
+  - [[LeetCode] 15. 3Sum](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-15-3sum.md)
   - [[LeetCode] 75. Sort Colors](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-75-sort-colors.md)
+  - [[LeetCode] 56. Merge Intervals](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-56-merge-intervals.md)
+  - [[LeetCode] 706. Design HashMap](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-706-design-hashmap.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
