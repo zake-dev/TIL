@@ -47,6 +47,7 @@
   - [[LeetCode] 75. Sort Colors](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-75-sort-colors.md)
   - [[LeetCode] 56. Merge Intervals](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-56-merge-intervals.md)
   - [[LeetCode] 706. Design HashMap](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-706-design-hashmap.md)
+  - [[LeetCode] 119. Pascal's Triangle II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-119-pascals-triangle-ii.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)

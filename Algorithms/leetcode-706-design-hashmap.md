@@ -14,51 +14,88 @@
 
 ## Solution
 
-- Use two extra pointers over iteration.
-- Firstly, sort the given `nums`.
-- `j` is the left most pointer between `i` and _end of the array_, `k` is the right most pointer between `i` and _end of the array_.
-- We will find that \_sum of `[nums[i], nums[j], nums[k]]` is equal to `0`. Push it into the `result`.
-- We don't need duplicate triplets, so skip all the duplicates. Move pointers.
-- Runtime Complexity: **O(n\*logn) + O(n^2) = O(n^2)**
+- Easy but not scalable solution.
+- As the range of `key` is `0 <= value <= 10^6`, `key` can be stored in `array` without hashing.
+- Create an empty `array` and implement methods.
+- Runtime Complexity: **put: O(1), get: O(1), remove: O(1)**
 
 ```typescript
-function threeSum(nums: number[]): number[][] {
-  nums.sort((a, b) => a - b);
-  const result: number[][] = [];
+class MyHashMap {
+  #map: number[];
 
-  let i = 0;
-  while (i < nums.length - 2) {
-    let j = i + 1;
-    let k = nums.length - 1;
-
-    while (j < k) {
-      const sum = nums[i] + nums[j] + nums[k];
-      if (sum < 0) j = skipDuplicates(nums, j);
-      else if (sum > 0) k = skipDuplicates(nums, k, true);
-      else {
-        result.push([nums[i], nums[j], nums[k]]);
-        j = skipDuplicates(nums, j);
-        k = skipDuplicates(nums, k, true);
-      }
-    }
-
-    i = skipDuplicates(nums, i);
+  constructor() {
+    this.#map = [];
   }
 
-  return result;
-}
+  put(key: number, value: number): void {
+    this.#map[key] = value;
+  }
 
-function skipDuplicates(
-  nums: number[],
-  index: number,
-  reverse: boolean = false
-): number {
-  if (reverse) while (nums[--index] === nums[index + 1]);
-  else while (nums[++index] === nums[index - 1]);
-  return index;
+  get(key: number): number {
+    return this.#map[key] ?? -1;
+  }
+
+  remove(key: number): void {
+    delete this.#map[key];
+  }
 }
 ```
 
 ## Other's Solution
 
-- It can be solved by using hash set as well, but this will cause TLE(Time Limit Exceeded) as it takes **O(n^2logn)**.
+- This problem requires the knowledge to implement hash map data structure with hash function.
+- You have to hash the given `key` and handle collisions occurred on input.
+- This guy suggests a simple hash function using 2 prime numbers, and keep `(key, value)` into _array of linked list_.
+- Runtime Complexity **put: O(1), get: O(1), remove: O(1)**
+
+```typescript
+class MyListNode {
+  key: number;
+  value: number;
+  next?: MyListNode;
+
+  constructor(key, value, next) {
+    this.key = key;
+    this.value = value;
+    this.next = next;
+  }
+}
+
+class MyHashMap {
+  #TABLE_SIZE: number = 19997;
+  #HASH_PRIME: number = 12582917;
+  #hashTable: MyListNode[];
+
+  constructor() {
+    this.#hashTable = new Array(this.#TABLE_SIZE);
+  }
+  hash(key) {
+    return (key * this.#HASH_PRIME) % this.#TABLE_SIZE;
+  }
+  put(key, value) {
+    this.remove(key);
+    let hashed = this.hash(key);
+    let node = new MyListNode(key, value, this.#hashTable[hashed]);
+    this.#hashTable[hashed] = node;
+  }
+  get(key) {
+    let hashed = this.hash(key);
+    for (let node = this.#hashTable[hashed]; node; node = node.next)
+      if (node.key === key) return node.value;
+    return -1;
+  }
+  remove(key) {
+    let hashed = this.hash(key);
+    let node = this.#hashTable[hashed];
+
+    if (!node) return;
+    if (node.key === key) this.#hashTable[hashed] = node.next;
+    else
+      for (; node.next; node = node.next)
+        if (node.next.key === key) {
+          node.next = node.next.next;
+          return;
+        }
+  }
+}
+```
