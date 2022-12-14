@@ -48,6 +48,7 @@
   - [[LeetCode] 56. Merge Intervals](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-56-merge-intervals.md)
   - [[LeetCode] 706. Design HashMap](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-706-design-hashmap.md)
   - [[LeetCode] 119. Pascal's Triangle II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-119-pascals-triangle-ii.md)
+  - [[LeetCode] 48. Rotate Image](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-48-rotate-image.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
