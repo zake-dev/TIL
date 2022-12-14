@@ -4,7 +4,7 @@
 
 ## Algorithms
 
-- Data Structure I <sub><sup>[[LeetCode] Data Structure I]()
+- Data Structure I <sub><sup>[[LeetCode] Data Structure I](https://leetcode.com/study-plan/data-structure/)</sup></sub>
 
   - [[LeetCode] 217. Contains Duplicate](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-217-contains-duplicate.md)
   - [[LeetCode] 53. Maximum Subarray](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-53-maximum-subarray.md)
@@ -39,7 +39,7 @@
   - [[LeetCode] 653. Two Sum IV - Input is a BST](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-653-two-sum-iv-input-is-a-bst.md)
   - [[LeetCode] 235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md)
 
-- Data Structure II
+- Data Structure II <sub><sup>[[LeetCode] Data Structure II](https://leetcode.com/study-plan/data-structure/)</sup></sub>
 
   - [[LeetCode] 136. Single Number](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-136-single-number.md)
   - [[LeetCode] 169. Majority Element](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-169-majority-element.md)
@@ -50,7 +50,7 @@
   - [[LeetCode] 119. Pascal's Triangle II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-119-pascals-triangle-ii.md)
   - [[LeetCode] 48. Rotate Image](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-48-rotate-image.md)
 
-- Top Interview Questions <sub><sup>[[LeetCode]](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
+- Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
 
 ## JavaScript
