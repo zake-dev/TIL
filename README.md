@@ -49,6 +49,7 @@
   - [[LeetCode] 706. Design HashMap](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-706-design-hashmap.md)
   - [[LeetCode] 119. Pascal's Triangle II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-119-pascals-triangle-ii.md)
   - [[LeetCode] 48. Rotate Image](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-48-rotate-image.md)
+  - [[LeetCode] 59. Spiral Matrix II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-59-spiral-matrix-ii.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
@@ -57,3 +58,4 @@
 
 - [How to Make Lazy Evaluated Function with Generator Syntax](https://github.com/zake-dev/TIL/blob/main/JavaScript/how-to-make-lazy-evaluated-function-with-generator-syntax.md)
 - [Implement the Sieve of Eratosthenes with Generator](https://github.com/zake-dev/TIL/blob/main/JavaScript/implement-the-sieve-of-eratosthenes-with-generator.md)
+- [Create a 2D Array in JavaScript](https://github.com/zake-dev/TIL/blob/main/JavaScript/create-a-2d-array-in-javascript.md)
