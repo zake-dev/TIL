@@ -50,6 +50,8 @@
   - [[LeetCode] 119. Pascal's Triangle II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-119-pascals-triangle-ii.md)
   - [[LeetCode] 48. Rotate Image](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-48-rotate-image.md)
   - [[LeetCode] 59. Spiral Matrix II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-59-spiral-matrix-ii.md)
+  - [[LeetCode] 240. Search a 2D Matrix II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-240-search-a-2d-matrix-ii.md)
+  - [[LeetCode] 435. Non-overlapping Intervals](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-435-non-overlapping-intervals.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
