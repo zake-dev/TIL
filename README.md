@@ -52,9 +52,14 @@
   - [[LeetCode] 59. Spiral Matrix II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-59-spiral-matrix-ii.md)
   - [[LeetCode] 240. Search a 2D Matrix II](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-240-search-a-2d-matrix-ii.md)
   - [[LeetCode] 435. Non-overlapping Intervals](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-435-non-overlapping-intervals.md)
+  - [[LeetCode] 334. Increasing Triplet Subsequence](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-334-increasing-triplet-subsequence.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
+
+## HTML
+
+- [Improve accessibility : `sr-only class` and `<del>`](https://github.com/zake-dev/TIL/blob/main/HTML/improve-accessibility-sr-only-class-and-del.md)
 
 ## JavaScript
 
