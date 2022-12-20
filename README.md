@@ -55,6 +55,9 @@
   - [[LeetCode] 334. Increasing Triplet Subsequence](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-334-increasing-triplet-subsequence.md)
   - [[LeetCode] 238. Product of Array Except Self](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-238-product-of-array-except-self.md)
   - [[LeetCode] 560. Subarray Sum Equals K](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-560-subarray-sum-equals-k.md)
+  - [[LeetCode] 415. Add Strings](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-415-add-strings.md)
+  - [[LeetCode] 409. Longest Palindrome](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-409-longest-palindrome.md)
+  - [[LeetCode] 290. Word Pattern](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-290-word-pattern.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
