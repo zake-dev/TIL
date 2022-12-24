@@ -64,6 +64,7 @@
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
   - [[LeetCode] 347. Top K Frequent Elements](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-347-top-k-frequent-elements.md)
+  - [[LeetCode] 412. Fizz Buzz](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-412-fizz-buzz.md)
 
 ## HTML
 
