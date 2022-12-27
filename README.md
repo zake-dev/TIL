@@ -67,6 +67,7 @@
   - [[LeetCode] 2. Add Two Numbers](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-2-add-two-numbers.md)
   - [[LeetCode] 347. Top K Frequent Elements](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-347-top-k-frequent-elements.md)
   - [[LeetCode] 412. Fizz Buzz](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-412-fizz-buzz.md)
+  - [[LeetCode] 191. Number of 1 Bits](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-191-number-of-1-bits.md)
 
 ## HTML
 
