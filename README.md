@@ -80,3 +80,7 @@
 - [How to Make Lazy Evaluated Function with Generator Syntax](https://github.com/zake-dev/TIL/blob/main/JavaScript/how-to-make-lazy-evaluated-function-with-generator-syntax.md)
 - [Implement the Sieve of Eratosthenes with Generator](https://github.com/zake-dev/TIL/blob/main/JavaScript/implement-the-sieve-of-eratosthenes-with-generator.md)
 - [Create a 2D Array in JavaScript](https://github.com/zake-dev/TIL/blob/main/JavaScript/create-a-2d-array-in-javascript.md)
+
+## React Native
+
+- [Setting Up React Native + TypeScript Project with Absolute Path Module Imports](./React%20Native/setting-up-react-native-typescript-project-with-absolute-path-module-imports.md)
