@@ -74,6 +74,7 @@
   - [[LeetCode] 237. Delete Node in a Linked List](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-237-delete-node-in-a-linked-list.md)
   - [[LeetCode] 14. Longest Common Prefix](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-14-logest-common-prefix.md)
   - [[LeetCode] 26. Remove Duplicates from Sorted Array](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-26-remove-duplicates-from-sorted-array.md)
+  - [[LeetCode] 66. Plus One](https://github.com/zake-dev/TIL/blob/main/Algorithms/leetcode-66-plus-one.md)
 
 ## HTML
 
