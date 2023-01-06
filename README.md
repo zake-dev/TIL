@@ -76,6 +76,7 @@
   - [[LeetCode] 26. Remove Duplicates from Sorted Array](./Algorithms/leetcode-26-remove-duplicates-from-sorted-array.md)
   - [[LeetCode] 66. Plus One](./Algorithms/leetcode-66-plus-one.md)
   - [[LeetCode] 69. Sqrt(x)](./Algorithms/leetcode-69-sqrt-x.md)
+  - [[LeetCode] 70. Climbing Stairs](./Algorithms/leetcode-70-climbing-stairs.md)
 
 ## HTML
 
