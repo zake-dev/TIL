@@ -77,6 +77,7 @@
   - [[LeetCode] 66. Plus One](./Algorithms/leetcode-66-plus-one.md)
   - [[LeetCode] 69. Sqrt(x)](./Algorithms/leetcode-69-sqrt-x.md)
   - [[LeetCode] 70. Climbing Stairs](./Algorithms/leetcode-70-climbing-stairs.md)
+  - [[LeetCode] 125. Valid Palindrome](./Algorithms/leetcode-125-valid-palindrome.md)
 
 ## HTML
 
