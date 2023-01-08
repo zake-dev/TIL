@@ -78,6 +78,7 @@
   - [[LeetCode] 69. Sqrt(x)](./Algorithms/leetcode-69-sqrt-x.md)
   - [[LeetCode] 70. Climbing Stairs](./Algorithms/leetcode-70-climbing-stairs.md)
   - [[LeetCode] 125. Valid Palindrome](./Algorithms/leetcode-125-valid-palindrome.md)
+  - [[LeetCode] 160. Intersection of Two Linked Lists](./Algorithms/leetcode-160-intersection-of-two-linked-lists.md)
 
 ## HTML
 
