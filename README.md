@@ -63,6 +63,7 @@
   - [[LeetCode] 43. Multiply Strings](./Algorithms/leetcode-43-multiply-strings.md)
   - [[LeetCode] 187. Repeated DNA Sequences](./Algorithms/leetcode-187-repeated-dna-sequences.md)
   - [[LeetCode] 5. Longest Palindromic String](./Algorithms/leetcode-5-longest-palindromic-string.md)
+  - [[LeetCode] 82. Remove Duplicates from Sorted List II](./Algorithms/leetcode-82-remove-duplicates-from-sorted-list-ii.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
