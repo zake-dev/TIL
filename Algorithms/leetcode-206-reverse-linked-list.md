@@ -42,7 +42,7 @@ function reverseList(head: ListNode | null): ListNode | null {
 
 ## Other's Solution
 
-- Another imnpressive solution using recursion!
+- Another impressive solution using recursion!
 - It also finds `tail` node first, but does not track `prev` node.
 - Instead of that, the function reverses the direction from the call stack which uses a `head` node is equivalent to `prev`.
 - Runtime Complexity: **O(n)**
