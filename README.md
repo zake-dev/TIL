@@ -66,6 +66,8 @@
   - [[LeetCode] 82. Remove Duplicates from Sorted List II](./Algorithms/leetcode-82-remove-duplicates-from-sorted-list-ii.md)
   - [[LeetCode] 24. Swap Nodes in Pairs](./Algorithms/leetcode-24-swap-nodes-in-pairs.md)
   - [[LeetCode] 707. Design Linked List](./Algorithms/leetcode-707-design-linked-list.md)
+  - [[LeetCode] 25. Reverse Nodes in k-Group](./Algorithms/leetcode-25-reverse-nodes-in-k-group.md)
+  - [[LeetCode] 143. Reorder List](./Algorithms/leetcode-143-reorder-list.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
