@@ -68,6 +68,9 @@
   - [[LeetCode] 707. Design Linked List](./Algorithms/leetcode-707-design-linked-list.md)
   - [[LeetCode] 25. Reverse Nodes in k-Group](./Algorithms/leetcode-25-reverse-nodes-in-k-group.md)
   - [[LeetCode] 143. Reorder List](./Algorithms/leetcode-143-reorder-list.md)
+  - [[LeetCode] 155. Min Stack](./Algorithms/leetcode-155-min-stack.md)
+  - [[LeetCode] 1249. Minimum Remove to Make Valid Parentheses](./Algorithms/leetcode-1249-minimum-remove-to-make-valid-parentheses.md)
+  - [[LeetCode] 1823. Find the Winner of the Circular Game](./Algorithms/leetcode-1823-find-the-winner-of-the-circular-game.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
