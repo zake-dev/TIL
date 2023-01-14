@@ -71,6 +71,9 @@
   - [[LeetCode] 155. Min Stack](./Algorithms/leetcode-155-min-stack.md)
   - [[LeetCode] 1249. Minimum Remove to Make Valid Parentheses](./Algorithms/leetcode-1249-minimum-remove-to-make-valid-parentheses.md)
   - [[LeetCode] 1823. Find the Winner of the Circular Game](./Algorithms/leetcode-1823-find-the-winner-of-the-circular-game.md)
+  - [[LeetCode] 108. Convert Sorted Array to Binary Search Tree](./Algorithms/leetcode-108-convert-sorted-array-to-binary-search-tree.md)
+  - [[LeetCode] 105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+  - [[LeetCode] 103. Binary Tree Zigzag Level Order Traversal](./Algorithms/leetcode-103-binary-tree-zigzag-level-order-traversal.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
