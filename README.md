@@ -74,6 +74,9 @@
   - [[LeetCode] 108. Convert Sorted Array to Binary Search Tree](./Algorithms/leetcode-108-convert-sorted-array-to-binary-search-tree.md)
   - [[LeetCode] 105. Construct Binary Tree from Preorder and Inorder Traversal](./Algorithms/leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   - [[LeetCode] 103. Binary Tree Zigzag Level Order Traversal](./Algorithms/leetcode-103-binary-tree-zigzag-level-order-traversal.md)
+  - [[LeetCode] 199. Binary Tree Right Side View](./Algorithms/leetcode-199-binary-tree-right-side-view.md)
+  - [[LeetCode] 113. Path Sum II](./Algorithms/leetcode-113-path-sum-ii.md)
+  - [[LeetCode] 450. Delete Node in a BST](./Algorithms/leetcode-450-delete-node-in-a-bst.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
