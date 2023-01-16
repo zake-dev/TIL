@@ -77,6 +77,8 @@
   - [[LeetCode] 199. Binary Tree Right Side View](./Algorithms/leetcode-199-binary-tree-right-side-view.md)
   - [[LeetCode] 113. Path Sum II](./Algorithms/leetcode-113-path-sum-ii.md)
   - [[LeetCode] 450. Delete Node in a BST](./Algorithms/leetcode-450-delete-node-in-a-bst.md)
+  - [[LeetCode] 230. Kth Smallest Element in a BST](./Algorithms/leetcode-230-kth-smallest-element-in-a-bst.md)
+  - [[LeetCode] 173. Binary Search Tree Iterator](./Algorithms/leetcode-173-binary-search-tree-iterator.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
