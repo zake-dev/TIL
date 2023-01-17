@@ -81,6 +81,9 @@
   - [[LeetCode] 173. Binary Search Tree Iterator](./Algorithms/leetcode-173-binary-search-tree-iterator.md)
   - [[LeetCode] 236. Lowest Common Ancestor of a Binary Tree](./Algorithms/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md)
   - [[LeetCode] 297. Serialize and Deserialize Binary Tree](./Algorithms/leetcode-297-serialize-and-deserialize-binary-tree.md)
+  - [[LeetCode] 997. Find a Town Judge](./Algorithms/leetcode-997-find-a-town-judge.md)
+  - [[LeetCode] 1557. Minimum Number of Vertices to Reach All Nodes](./Algorithms/leetcode-1557-minimum-number-of-vertices-to-reach-all-nodes.md)
+  - [[LeetCode] 841. Key and Rooms](./Algorithms/leetcode-841-key-and-rooms.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
