@@ -79,6 +79,8 @@
   - [[LeetCode] 450. Delete Node in a BST](./Algorithms/leetcode-450-delete-node-in-a-bst.md)
   - [[LeetCode] 230. Kth Smallest Element in a BST](./Algorithms/leetcode-230-kth-smallest-element-in-a-bst.md)
   - [[LeetCode] 173. Binary Search Tree Iterator](./Algorithms/leetcode-173-binary-search-tree-iterator.md)
+  - [[LeetCode] 236. Lowest Common Ancestor of a Binary Tree](./Algorithms/leetcode-236-lowest-common-ancestor-of-a-binary-tree.md)
+  - [[LeetCode] 297. Serialize and Deserialize Binary Tree](./Algorithms/leetcode-297-serialize-and-deserialize-binary-tree.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
