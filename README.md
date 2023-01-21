@@ -89,6 +89,7 @@
   - [[LeetCode] 973. K Closest Points to Origin](./Algorithms/leetcode-973-k-closest-points-to-origin.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
+
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
   - [[LeetCode] 347. Top K Frequent Elements](./Algorithms/leetcode-347-top-k-frequent-elements.md)
   - [[LeetCode] 412. Fizz Buzz](./Algorithms/leetcode-412-fizz-buzz.md)
@@ -104,6 +105,10 @@
   - [[LeetCode] 125. Valid Palindrome](./Algorithms/leetcode-125-valid-palindrome.md)
   - [[LeetCode] 160. Intersection of Two Linked Lists](./Algorithms/leetcode-160-intersection-of-two-linked-lists.md)
   - [[LeetCode] 171. Excel Sheet Column Number](./Algorithms/leetcode-171-excel-sheet-column-number.md)
+
+- Programming Skills I <sub><sup>[[LeetCode] Programming Skills I](https://leetcode.com/study-plan/programming-skills/)</up></sub>
+  - [[LeetCode] 1523. Count Odd Numbers in an Interval Range](./Algorithms/leetcode-1523-count-odd-numbers-in-an-interval-range.md)
+  - [[LeetCode] 1491. Average Salary Excluding the Minimum and Maximum Salary](./Algorithms/leetcode-1491-average-salary-excluding-the-minimum-and-maximum-salary.md)
 
 ## HTML
 
