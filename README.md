@@ -109,6 +109,7 @@
 - Programming Skills I <sub><sup>[[LeetCode] Programming Skills I](https://leetcode.com/study-plan/programming-skills/)</up></sub>
   - [[LeetCode] 1523. Count Odd Numbers in an Interval Range](./Algorithms/leetcode-1523-count-odd-numbers-in-an-interval-range.md)
   - [[LeetCode] 1491. Average Salary Excluding the Minimum and Maximum Salary](./Algorithms/leetcode-1491-average-salary-excluding-the-minimum-and-maximum-salary.md)
+  - [[LeetCode] 1281. Subtract the Product and Sum of Digits of an Integer](./Algorithms/leetcode-1281-subtract-the-product-and-sum-of-digits-of-an-integer.md)
 
 ## HTML
 
