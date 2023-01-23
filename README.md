@@ -110,6 +110,8 @@
   - [[LeetCode] 1523. Count Odd Numbers in an Interval Range](./Algorithms/leetcode-1523-count-odd-numbers-in-an-interval-range.md)
   - [[LeetCode] 1491. Average Salary Excluding the Minimum and Maximum Salary](./Algorithms/leetcode-1491-average-salary-excluding-the-minimum-and-maximum-salary.md)
   - [[LeetCode] 1281. Subtract the Product and Sum of Digits of an Integer](./Algorithms/leetcode-1281-subtract-the-product-and-sum-of-digits-of-an-integer.md)
+  - [[LeetCode] 976. Largest Perimeter Triangle](./Algorithms/leetcode-976-largest-perimiter-triagle.md)
+  - [[LeetCode] 1779. Find Nearest Point That Has the Same X or Y Coordinate](./Algorithms/leetcode-1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.md)
 
 ## HTML
 
