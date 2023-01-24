@@ -112,6 +112,10 @@
   - [[LeetCode] 1281. Subtract the Product and Sum of Digits of an Integer](./Algorithms/leetcode-1281-subtract-the-product-and-sum-of-digits-of-an-integer.md)
   - [[LeetCode] 976. Largest Perimeter Triangle](./Algorithms/leetcode-976-largest-perimiter-triagle.md)
   - [[LeetCode] 1779. Find Nearest Point That Has the Same X or Y Coordinate](./Algorithms/leetcode-1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.md)
+  - [[LeetCode] 1822. Sign of the Product of an Array](./Algorithms/leetcode-1822-sign-of-the-product-of-an-array.md)
+  - [[LeetCode] 1502. Can Make Arithmetic Progression From Sequence](./Algorithms/leetcode-1502-can-make-arithmetic-progression-from-sequence.md)
+  - [[LeetCode] 202. Happy Number](./Algorithms/leetcode-202-happy-number.md)
+  - [[LeetCode] 1790. Check if One String Swap Can Make Strings Equal](./Algorithms/leetcode-1790-check-if-one-string-swap-can-make-strings-equal.md)
 
 ## HTML
 
