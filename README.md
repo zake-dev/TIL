@@ -116,6 +116,9 @@
   - [[LeetCode] 1502. Can Make Arithmetic Progression From Sequence](./Algorithms/leetcode-1502-can-make-arithmetic-progression-from-sequence.md)
   - [[LeetCode] 202. Happy Number](./Algorithms/leetcode-202-happy-number.md)
   - [[LeetCode] 1790. Check if One String Swap Can Make Strings Equal](./Algorithms/leetcode-1790-check-if-one-string-swap-can-make-strings-equal.md)
+  - [[LeetCode] 589. N-ary Tree Preorder Traversal](./Algorithms/leetcode-589-n-ary-tree-preorder-traversal.md)
+  - [[LeetCode] 496. Next Greater Element I](./Algorithms/leetcode-496-next-greater-element-i.md)
+  - [[LeetCode] 1232. Check If It Is a Straight Line](./Algorithms/leetcode-1232-check-if-it-is-a-straight-line.md)
 
 ## HTML
 
