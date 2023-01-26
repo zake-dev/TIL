@@ -119,6 +119,9 @@
   - [[LeetCode] 589. N-ary Tree Preorder Traversal](./Algorithms/leetcode-589-n-ary-tree-preorder-traversal.md)
   - [[LeetCode] 496. Next Greater Element I](./Algorithms/leetcode-496-next-greater-element-i.md)
   - [[LeetCode] 1232. Check If It Is a Straight Line](./Algorithms/leetcode-1232-check-if-it-is-a-straight-line.md)
+  - [[LeetCode] 1588. Sum of All Odd Length Subarrays](./Algorithms/leetcode-1588-sum-of-all-odd-length-subarrays.md)
+  - [[LeetCode] 283. Move Zeroes](./Algorithms/leetcode-283-move-zeroes.md)
+  - [[LeetCode] 1672. Richest Customer Wealth](./Algorithms/leetcode-1672-richest-customer-wealth.md)
 
 ## HTML
 
