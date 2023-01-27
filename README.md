@@ -122,6 +122,7 @@
   - [[LeetCode] 1588. Sum of All Odd Length Subarrays](./Algorithms/leetcode-1588-sum-of-all-odd-length-subarrays.md)
   - [[LeetCode] 283. Move Zeroes](./Algorithms/leetcode-283-move-zeroes.md)
   - [[LeetCode] 1672. Richest Customer Wealth](./Algorithms/leetcode-1672-richest-customer-wealth.md)
+  - [[LeetCode] 1572. Matrix Diagonal Sum](./Algorithms/leetcode-1572-matrix-diagonal-sum.md)
 
 ## HTML
 
