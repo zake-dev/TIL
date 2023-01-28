@@ -123,6 +123,9 @@
   - [[LeetCode] 283. Move Zeroes](./Algorithms/leetcode-283-move-zeroes.md)
   - [[LeetCode] 1672. Richest Customer Wealth](./Algorithms/leetcode-1672-richest-customer-wealth.md)
   - [[LeetCode] 1572. Matrix Diagonal Sum](./Algorithms/leetcode-1572-matrix-diagonal-sum.md)
+  - [[LeetCode] 1768. Merge Strings Alternately](./Algorithms/leetcode-1768-merge-strings-alternately.md)
+  - [[LeetCode] 1678. Goal Parser Interpretation](./Algorithms/leetcode-1678-goal-parser-interpretation.md)
+  - [[LeetCode] 389. Find the Difference](./Algorithms/leetcode-389-find-the-difference.md)
 
 ## HTML
 
