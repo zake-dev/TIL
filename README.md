@@ -87,6 +87,7 @@
   - [[LeetCode] 215. Kth Largest Element in Array](./Algorithms/leetcode-215-kth-largest-element-in-array.md)
   - [[LeetCode] 451. Sort Characters By Frequency](./Algorithms/leetcode-451-sort-characters-by-frequency.md)
   - [[LeetCode] 973. K Closest Points to Origin](./Algorithms/leetcode-973-k-closest-points-to-origin.md)
+  - [[LeetCode] 1309. Decrypt String from Alphabet to Integer Mapping](./Algorithms/leetcode-1309-decrypt-string-from-alphabet-to-integer-mapping.md)
 
 - Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
 
