@@ -145,6 +145,15 @@ Programming Skills I
   - [[LeetCode] 389. Find the Difference](./Algorithms/leetcode-389-find-the-difference.md)
 </details>
 
+<details>
+<summary>
+LeetCode 75
+</summary>
+  
+  - [[LeetCode] 1768. Merge Strings Alternately](./Algorithms/leetcode-1768-merge-strings-alternately.md)
+
+</details>
+
 ## HTML
 
 - [Improve accessibility : `sr-only class` and `<del>`](./HTML/improve-accessibility-sr-only-class-and-del.md)
