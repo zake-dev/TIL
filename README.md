@@ -151,6 +151,7 @@ LeetCode 75
 </summary>
   
   - [[LeetCode] 1768. Merge Strings Alternately](./Algorithms/leetcode-1768-merge-strings-alternately.md)
+  - [[LeetCode] 1071. Greatest Common Divisor of Strings](./Algorithms/leetcode-1071-greatest-common-divisior-of-strings.md)
 
 </details>
 
