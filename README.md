@@ -4,7 +4,10 @@
 
 ## Algorithms
 
-- Data Structure I <sub><sup>[[LeetCode] Data Structure I](https://leetcode.com/study-plan/data-structure/)</sup></sub>
+<details>
+<summary>
+Data Structure I
+</summary>
 
   - [[LeetCode] 217. Contains Duplicate](./Algorithms/leetcode-217-contains-duplicate.md)
   - [[LeetCode] 53. Maximum Subarray](./Algorithms/leetcode-53-maximum-subarray.md)
@@ -38,8 +41,12 @@
   - [[LeetCode] 98. Validate Binary Search Tree](./Algorithms/leetcode-98-validate-binary-search-tree.md)
   - [[LeetCode] 653. Two Sum IV - Input is a BST](./Algorithms/leetcode-653-two-sum-iv-input-is-a-bst.md)
   - [[LeetCode] 235. Lowest Common Ancestor of a Binary Search Tree](./Algorithms/leetcode-235-lowest-common-ancestor-of-a-binary-search-tree.md)
+</details>
 
-- Data Structure II <sub><sup>[[LeetCode] Data Structure II](https://leetcode.com/study-plan/data-structure/)</sup></sub>
+<details>
+<summary>
+Data Structure II
+</summary>
 
   - [[LeetCode] 136. Single Number](./Algorithms/leetcode-136-single-number.md)
   - [[LeetCode] 169. Majority Element](./Algorithms/leetcode-169-majority-element.md)
@@ -88,9 +95,13 @@
   - [[LeetCode] 451. Sort Characters By Frequency](./Algorithms/leetcode-451-sort-characters-by-frequency.md)
   - [[LeetCode] 973. K Closest Points to Origin](./Algorithms/leetcode-973-k-closest-points-to-origin.md)
   - [[LeetCode] 1309. Decrypt String from Alphabet to Integer Mapping](./Algorithms/leetcode-1309-decrypt-string-from-alphabet-to-integer-mapping.md)
+</details>
 
-- Top Interview Questions <sub><sup>[[LeetCode] Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)</sup></sub>
-
+<details>
+<summary>
+Top Interview Questions 100
+</summary>
+  
   - [[LeetCode] 2. Add Two Numbers](./Algorithms/leetcode-2-add-two-numbers.md)
   - [[LeetCode] 347. Top K Frequent Elements](./Algorithms/leetcode-347-top-k-frequent-elements.md)
   - [[LeetCode] 412. Fizz Buzz](./Algorithms/leetcode-412-fizz-buzz.md)
@@ -106,8 +117,13 @@
   - [[LeetCode] 125. Valid Palindrome](./Algorithms/leetcode-125-valid-palindrome.md)
   - [[LeetCode] 160. Intersection of Two Linked Lists](./Algorithms/leetcode-160-intersection-of-two-linked-lists.md)
   - [[LeetCode] 171. Excel Sheet Column Number](./Algorithms/leetcode-171-excel-sheet-column-number.md)
+</details>
 
-- Programming Skills I <sub><sup>[[LeetCode] Programming Skills I](https://leetcode.com/study-plan/programming-skills/)</up></sub>
+<details>
+<summary>
+Programming Skills I
+</summary>
+  
   - [[LeetCode] 1523. Count Odd Numbers in an Interval Range](./Algorithms/leetcode-1523-count-odd-numbers-in-an-interval-range.md)
   - [[LeetCode] 1491. Average Salary Excluding the Minimum and Maximum Salary](./Algorithms/leetcode-1491-average-salary-excluding-the-minimum-and-maximum-salary.md)
   - [[LeetCode] 1281. Subtract the Product and Sum of Digits of an Integer](./Algorithms/leetcode-1281-subtract-the-product-and-sum-of-digits-of-an-integer.md)
@@ -127,6 +143,7 @@
   - [[LeetCode] 1768. Merge Strings Alternately](./Algorithms/leetcode-1768-merge-strings-alternately.md)
   - [[LeetCode] 1678. Goal Parser Interpretation](./Algorithms/leetcode-1678-goal-parser-interpretation.md)
   - [[LeetCode] 389. Find the Difference](./Algorithms/leetcode-389-find-the-difference.md)
+</details>
 
 ## HTML
 
