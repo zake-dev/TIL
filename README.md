@@ -155,6 +155,9 @@ LeetCode 75
   - [[LeetCode] 1431. Kids With the Greatest Number of Candies](./Algorithms/leetcode-1431-kids-with-the-greatest-number-of-candies.md)
   - [[LeetCode] 605. Can Place Flowers](./Algorithms/leetcode-605-can-place-flowers.md)
   - [[LeetCode] 345. Reverse Vowels of a String](./Algorithms/leetcode-345-reverse-vowels-of-a-string.md)
+  - [[LeetCode] 151. Reverse Words in a String](./Algorithms/leetcode-151-reverse-words-in-a-string.md)
+  - [[LeetCode] 238. Product of Array Except Self](./Algorithms/leetcode-238-product-of-array-except-self.md)
+  - [[LeetCode] 334. Increasing Triplet Subsequence](./Algorithms/leetcode-334-increasing-triplet-subsequence.md)
 
 </details>
 
