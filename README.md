@@ -158,6 +158,9 @@ LeetCode 75
   - [[LeetCode] 151. Reverse Words in a String](./Algorithms/leetcode-151-reverse-words-in-a-string.md)
   - [[LeetCode] 238. Product of Array Except Self](./Algorithms/leetcode-238-product-of-array-except-self.md)
   - [[LeetCode] 334. Increasing Triplet Subsequence](./Algorithms/leetcode-334-increasing-triplet-subsequence.md)
+  - [[LeetCode] 443. String Compression](./Algorithms/leetcode-443-string-compression.md)
+  - [[LeetCode] 283. Move Zeroes](./Algorithms/leetcode-283-move-zeroes.md)
+  - [[LeetCode] 392. Is Subsequence](./Algorithms/leetcode-392-is-subsequence.md)
 
 </details>
 
