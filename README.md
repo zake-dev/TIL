@@ -173,6 +173,12 @@ LeetCode Top 150 Interview
 - [[LeetCode] 27. Remove Element](./LeetCode/Top Interview 150/leetcode-27.md)
 - [[LeetCode] 26. Remove Duplicates from Sorted Array](./LeetCode/Top Interview 150/leetcode-26.md)
 - [[LeetCode] 80. Remove Duplicates from Sorted Array II](./LeetCode/Top Interview 150/leetcode-80.md)
+- [[LeetCode] 169. Majority Element](./LeetCode/Top Interview 150/leetcode-169.md)
+- [[LeetCode] 189. Rotate Array](./LeetCode/Top Interview 150/leetcode-189.md)
+- [[LeetCode] 121. Best Time to Buy and Sell Stock](./LeetCode/Top Interview 150/leetcode-121.md)
+- [[LeetCode] 122. Best Time to Buy and Sell Stock II](./LeetCode/Top Interview 150/leetcode-122.md)
+- [[LeetCode] 55. Jump Game](./LeetCode/Top Interview 150/leetcode-55.md)
+- [[LeetCode] 45. Jump Game II](./LeetCode/Top Interview 150/leetcode-45.md)
 
 </details>
 
