@@ -179,6 +179,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 122. Best Time to Buy and Sell Stock II](./LeetCode/Top Interview 150/leetcode-122.md)
 - [[LeetCode] 55. Jump Game](./LeetCode/Top Interview 150/leetcode-55.md)
 - [[LeetCode] 45. Jump Game II](./LeetCode/Top Interview 150/leetcode-45.md)
+- [[LeetCode] 274. H-Index](./LeetCode/Top Interview 150/leetcode-274.md)
+- [[LeetCode] 380. Insert Delete GetRandom O(1)](./LeetCode/Top Interview 150/leetcode-380.md)
+- [[LeetCode] 238. Product of Array Except Self](./LeetCode/Top Interview 150/leetcode-238.md)
+- [[LeetCode] 134. Gas Statiion](./LeetCode/Top Interview 150/leetcode-134.md)
+- [[LeetCode] 135. Candy](./LeetCode/Top Interview 150/leetcode-135.md)
 
 </details>
 
