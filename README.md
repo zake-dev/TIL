@@ -184,6 +184,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 238. Product of Array Except Self](./LeetCode/Top Interview 150/leetcode-238.md)
 - [[LeetCode] 134. Gas Statiion](./LeetCode/Top Interview 150/leetcode-134.md)
 - [[LeetCode] 135. Candy](./LeetCode/Top Interview 150/leetcode-135.md)
+- [[LeetCode] 42. Trapping Rain Water](./LeetCode/Top Interview 150/leetcode-42.md)
+- [[LeetCode] 12. Integer to Roman](./LeetCode/Top Interview 150/leetcode-12.md)
+- [[LeetCode] 14. Longest Common Prefix](./LeetCode/Top Interview 150/leetcode-14.md)
+- [[LeetCode] 13. Roman to Integer](./LeetCode/Top Interview 150/leetcode-13.md)
+- [[LeetCode] 58. Length of Last Word](./LeetCode/Top Interview 150/leetcode-50.md)
 
 </details>
 
