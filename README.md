@@ -189,6 +189,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 14. Longest Common Prefix](./LeetCode/Top Interview 150/leetcode-14.md)
 - [[LeetCode] 13. Roman to Integer](./LeetCode/Top Interview 150/leetcode-13.md)
 - [[LeetCode] 58. Length of Last Word](./LeetCode/Top Interview 150/leetcode-50.md)
+- [[LeetCode] 151. Reverse Words in a String](./LeetCode/Top Interview 150/leetcode-151.md)
+- [[LeetCode] 6. Zigzag Conversion](./LeetCode/Top Interview 150/leetcode-6.md)
+- [[LeetCode] 28. Find the Index of the First Occurence in a String](./LeetCode/Top Interview 150/leetcode-28.md)
+- [[LeetCode] 68. Text Justification](./LeetCode/Top Interview 150/leetcode-68.md)
+- [[LeetCode] 125. Valid Palindrome](./LeetCode/Top Interview 150/leetcode-125.md)
 
 </details>
 
