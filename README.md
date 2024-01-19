@@ -194,6 +194,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 28. Find the Index of the First Occurence in a String](./LeetCode/Top Interview 150/leetcode-28.md)
 - [[LeetCode] 68. Text Justification](./LeetCode/Top Interview 150/leetcode-68.md)
 - [[LeetCode] 125. Valid Palindrome](./LeetCode/Top Interview 150/leetcode-125.md)
+- [[LeetCode] 392. Is Subsequence](./LeetCode/Top Interview 150/leetcode-392.md)
+- [[LeetCode] 167. Tow Sum II - Input Array Is Sorted](./LeetCode/Top Interview 150/leetcode-167.md)
+- [[LeetCode] 11. Container With Most Water](./LeetCode/Top Interview 150/leetcode-11.md)
+- [[LeetCode] 15. 3Sum](./LeetCode/Top Interview 150/leetcode-15.md)
+- [[LeetCode] 209. Minimum Size Subarray Sum](./LeetCode/Top Interview 150/leetcode-209.md)
 
 </details>
 
