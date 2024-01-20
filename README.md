@@ -199,6 +199,9 @@ LeetCode Top 150 Interview
 - [[LeetCode] 11. Container With Most Water](./LeetCode/Top Interview 150/leetcode-11.md)
 - [[LeetCode] 15. 3Sum](./LeetCode/Top Interview 150/leetcode-15.md)
 - [[LeetCode] 209. Minimum Size Subarray Sum](./LeetCode/Top Interview 150/leetcode-209.md)
+- [[LeetCode] 3. Longest Substring Without Repeating Characters](./LeetCode/Top Interview 150/leetcode-3.md)
+- [[LeetCode] 36. Valid Sudoku](./LeetCode/Top Interview 150/leetcode-36.md)
+- [[LeetCode] 54. Spiral Matrix](./LeetCode/Top Interview 150/leetcode-54.md)
 
 </details>
 
