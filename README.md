@@ -202,6 +202,10 @@ LeetCode Top 150 Interview
 - [[LeetCode] 3. Longest Substring Without Repeating Characters](./LeetCode/Top Interview 150/leetcode-3.md)
 - [[LeetCode] 36. Valid Sudoku](./LeetCode/Top Interview 150/leetcode-36.md)
 - [[LeetCode] 54. Spiral Matrix](./LeetCode/Top Interview 150/leetcode-54.md)
+- [[LeetCode] 383. Ransom Note](./LeetCode/Top Interview 150/leetcode-383.md)
+- [[LeetCode] 205. Isomorphic Strings](./LeetCode/Top Interview 150/leetcode-205.md)
+- [[LeetCode] 290. Word Pattern](./LeetCode/Top Interview 150/leetcode-290.md)
+- [[LeetCode] 242. Valid Anagram](./LeetCode/Top Interview 150/leetcode-242.md)
 
 </details>
 
