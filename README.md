@@ -206,6 +206,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 205. Isomorphic Strings](./LeetCode/Top Interview 150/leetcode-205.md)
 - [[LeetCode] 290. Word Pattern](./LeetCode/Top Interview 150/leetcode-290.md)
 - [[LeetCode] 242. Valid Anagram](./LeetCode/Top Interview 150/leetcode-242.md)
+- [[LeetCode] 49. Group Anagrams](./LeetCode/Top Interview 150/leetcode-49.md)
+- [[LeetCode] 1. Two Sum](./LeetCode/Top Interview 150/leetcode-1.md)
+- [[LeetCode] 202. Happy Number](./LeetCode/Top Interview 150/leetcode-202.md)
+- [[LeetCode] 219. Contains Duplicate II](./LeetCode/Top Interview 150/leetcode-219.md)
+- [[LeetCode] 128. Longest Consecutive Sequence](./LeetCode/Top Interview 150/leetcode-128.md)
 
 </details>
 
