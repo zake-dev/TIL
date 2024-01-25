@@ -211,6 +211,8 @@ LeetCode Top 150 Interview
 - [[LeetCode] 202. Happy Number](./LeetCode/Top Interview 150/leetcode-202.md)
 - [[LeetCode] 219. Contains Duplicate II](./LeetCode/Top Interview 150/leetcode-219.md)
 - [[LeetCode] 128. Longest Consecutive Sequence](./LeetCode/Top Interview 150/leetcode-128.md)
+- [[LeetCode] 228. Summary Ranges](./LeetCode/Top Interview 150/leetcode-228.md)
+- [[LeetCode] 20. Valid Parentheses](./LeetCode/Top Interview 150/leetcode-20.md)
 
 </details>
 
