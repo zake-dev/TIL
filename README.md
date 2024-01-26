@@ -213,6 +213,9 @@ LeetCode Top 150 Interview
 - [[LeetCode] 128. Longest Consecutive Sequence](./LeetCode/Top Interview 150/leetcode-128.md)
 - [[LeetCode] 228. Summary Ranges](./LeetCode/Top Interview 150/leetcode-228.md)
 - [[LeetCode] 20. Valid Parentheses](./LeetCode/Top Interview 150/leetcode-20.md)
+- [[LeetCode] 56. Merge Intervals](./LeetCode/Top Interview 150/leetcode-56.md)
+- [[LeetCode] 57. Insert Interval](./LeetCode/Top Interview 150/leetcode-57.md)
+- [[LeetCode] 452. Minimum Number of Arrows to Burst Balloons](./LeetCode/Top Interview 150/leetcode-452.md)
 
 </details>
 
