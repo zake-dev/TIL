@@ -216,6 +216,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 56. Merge Intervals](./LeetCode/Top Interview 150/leetcode-56.md)
 - [[LeetCode] 57. Insert Interval](./LeetCode/Top Interview 150/leetcode-57.md)
 - [[LeetCode] 452. Minimum Number of Arrows to Burst Balloons](./LeetCode/Top Interview 150/leetcode-452.md)
+- [[LeetCode] 71. Simplify Path](./LeetCode/Top Interview 150/leetcode-71.md)
+- [[LeetCode] 155. Min Stack](./LeetCode/Top Interview 150/leetcode-155.md)
+- [[LeetCode] 150. Evaluate Reverse Polish Notation](./LeetCode/Top Interview 150/leetcode-150.md)
+- [[LeetCode] 224. Basic Calculator](./LeetCode/Top Interview 150/leetcode-224.md)
+- [[LeetCode] 141. Linked List Cycle](./LeetCode/Top Interview 150/leetcode-141.md)
 
 </details>
 
