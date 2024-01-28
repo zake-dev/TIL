@@ -221,6 +221,9 @@ LeetCode Top 150 Interview
 - [[LeetCode] 150. Evaluate Reverse Polish Notation](./LeetCode/Top Interview 150/leetcode-150.md)
 - [[LeetCode] 224. Basic Calculator](./LeetCode/Top Interview 150/leetcode-224.md)
 - [[LeetCode] 141. Linked List Cycle](./LeetCode/Top Interview 150/leetcode-141.md)
+- [[LeetCode] 30. substring with Concatenation of All Words](./LeetCode/Top Interview 150/leetcode-30.md)
+- [[LeetCode] 2. Add Two Numbers](./LeetCode/Top Interview 150/leetcode-2.md)
+- [[LeetCode] 21. Merge Two Sorted Lists](./LeetCode/Top Interview 150/leetcode-21.md)
 
 </details>
 
