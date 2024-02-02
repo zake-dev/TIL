@@ -224,6 +224,9 @@ LeetCode Top 150 Interview
 - [[LeetCode] 30. substring with Concatenation of All Words](./LeetCode/Top Interview 150/leetcode-30.md)
 - [[LeetCode] 2. Add Two Numbers](./LeetCode/Top Interview 150/leetcode-2.md)
 - [[LeetCode] 21. Merge Two Sorted Lists](./LeetCode/Top Interview 150/leetcode-21.md)
+- [[LeetCode] 138. Copy List with Random Pointer](./LeetCode/Top Interview 150/leetcode-138.md)
+- [[LeetCode] 92. Reverse Linked List II](./LeetCode/Top Interview 150/leetcode-92.md)
+- [[LeetCode] 82. Remove Duplicates from Sorted List II](./LeetCode/Top Interview 150/leetcode-82.md)
 
 </details>
 
