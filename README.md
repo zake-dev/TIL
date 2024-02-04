@@ -228,6 +228,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 92. Reverse Linked List II](./LeetCode/Top Interview 150/leetcode-92.md)
 - [[LeetCode] 82. Remove Duplicates from Sorted List II](./LeetCode/Top Interview 150/leetcode-82.md)
 - [[LeetCode] 76. Minimum Window Substring](./LeetCode/Top Interview 150/leetcode-76.md)
+- [[LeetCode] 48. Rotate Image](./LeetCode/Top Interview 150/leetcode-48.md)
+- [[LeetCode] 73. Set Matrix Zeroes](./LeetCode/Top Interview 150/leetcode-73.md)
+- [[LeetCode] 289. Game of Life](./LeetCode/Top Interview 150/leetcode-289.md)
+- [[LeetCode] 25. reverse Nodes in k-Group](./LeetCode/Top Interview 150/leetcode-25.md)
+- [[LeetCode] 19. Remove Nth Node From End of List](./LeetCode/Top Interview 150/leetcode-19.md)
 
 </details>
 
