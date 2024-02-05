@@ -233,6 +233,12 @@ LeetCode Top 150 Interview
 - [[LeetCode] 289. Game of Life](./LeetCode/Top Interview 150/leetcode-289.md)
 - [[LeetCode] 25. reverse Nodes in k-Group](./LeetCode/Top Interview 150/leetcode-25.md)
 - [[LeetCode] 19. Remove Nth Node From End of List](./LeetCode/Top Interview 150/leetcode-19.md)
+- [[LeetCode] 61. Roate List](./LeetCode/Top Interview 150/leetcode-61.md)
+- [[LeetCode] 86. Partition List](./LeetCode/Top Interview 150/leetcode-86.md)
+- [[LeetCode] 146. LRU Cache](./LeetCode/Top Interview 150/leetcode-146.md)
+- [[LeetCode] 104. Maximum Depth of Binary Tree](./LeetCode/Top Interview 150/leetcode-104.md)
+- [[LeetCode] 100. Same Tree](./LeetCode/Top Interview 150/leetcode-100.md)
+- [[LeetCode] 226. Invert Binary Tree](./LeetCode/Top Interview 150/leetcode-226.md)
 
 </details>
 
