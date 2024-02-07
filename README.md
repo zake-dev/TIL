@@ -244,6 +244,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 106. Construct Binary Tree from Inorder and Postorder Traversal](./LeetCode/Top Interview 150/leetcode-106.md)
 - [[LeetCode] 117. Populating Next Right Pointers in Each Node II](./LeetCode/Top Interview 150/leetcode-117.md)
 - [[LeetCode] 114. Flatten Binary Tree to Linked List](./LeetCode/Top Interview 150/leetcode-114.md)
+- [[LeetCode] 112. Path Sum](./LeetCode/Top Interview 150/leetcode-112.md)
+- [[LeetCode] 129. Sum Root to Leaf Numbers](./LeetCode/Top Interview 150/leetcode-129.md)
+- [[LeetCode] 124. Binary Tree Maximum Path Sum](./LeetCode/Top Interview 150/leetcode-124.md)
+- [[LeetCode] 173. Binary Search Tree Iteratior](./LeetCode/Top Interview 150/leetcode-173.md)
+- [[LeetCode] 222. Count Complete Tree Nodes](./LeetCode/Top Interview 150/leetcode-222.md)
 
 </details>
 
