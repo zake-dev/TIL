@@ -254,6 +254,11 @@ LeetCode Top 150 Interview
 - [[LeetCode] 637. Average of Levels in Binary Tree](./LeetCode/Top Interview 150/leetcode-637.md)
 - [[LeetCode] 102. Binary Tree Level Order Traversal](./LeetCode/Top Interview 150/leetcode-102.md)
 - [[LeetCode] 103. Binary Tree Zigzag Level Order Traversal](./LeetCode/Top Interview 150/leetcode-103.md)
+- [[LeetCode] 530. Minimum Absolute Difference in BST](./LeetCode/Top Interview 150/leetcode-530.md)
+- [[LeetCode] 230. Kth Smallest Element in a BST](./LeetCode/Top Interview 150/leetcode-230.md)
+- [[LeetCode] 98. Validate Binary Search Tree](./LeetCode/Top Interview 150/leetcode-98.md)
+- [[LeetCode] 200. Number of Islands](./LeetCode/Top Interview 150/leetcode-200.md)
+- [[LeetCode] 130. Surrounded Regions](./LeetCode/Top Interview 150/leetcode-130.md)
 
 </details>
 
