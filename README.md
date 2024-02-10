@@ -259,6 +259,8 @@ LeetCode Top 150 Interview
 - [[LeetCode] 98. Validate Binary Search Tree](./LeetCode/Top Interview 150/leetcode-98.md)
 - [[LeetCode] 200. Number of Islands](./LeetCode/Top Interview 150/leetcode-200.md)
 - [[LeetCode] 130. Surrounded Regions](./LeetCode/Top Interview 150/leetcode-130.md)
+- [[LeetCode] 133. Clone Graph](./LeetCode/Top Interview 150/leetcode-133.md)
+- [[LeetCode] 399. Evaluate Division](./LeetCode/Top Interview 150/leetcode-399.md)
 
 </details>
 
